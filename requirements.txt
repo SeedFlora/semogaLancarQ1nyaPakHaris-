@@ -1,0 +1,13 @@
+# Versions verified with the test suite (Python 3.12 in Docker, 3.13 locally).
+# catboost must be able to read the .cbm checkpoints (trained with catboost >= 1.2.7).
+catboost==1.2.10
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.9.0
+statsmodels==0.14.6
+matplotlib==3.11.0
+Pillow==12.2.0
+lxml==6.1.1
+python-docx==1.2.0
+pytest==8.4.2

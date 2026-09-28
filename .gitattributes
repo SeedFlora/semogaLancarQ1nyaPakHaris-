@@ -1,0 +1,4 @@
+# Keep LF endings so the scripts behave the same inside the Linux container
+* text=auto eol=lf
+*.png binary
+*.docx binary
