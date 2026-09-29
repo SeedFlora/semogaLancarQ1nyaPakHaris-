@@ -1,0 +1,9 @@
+# Only for replication/extract_embeddings.py (frozen encoders on a CUDA GPU).
+# Install torch/torchvision from https://pytorch.org for your CUDA version first, e.g.
+#   pip install torch==2.11.0 torchvision --index-url https://download.pytorch.org/whl/cu128
+timm==1.0.27
+transformers==5.11.0
+huggingface_hub
+safetensors
+sentencepiece
+requests

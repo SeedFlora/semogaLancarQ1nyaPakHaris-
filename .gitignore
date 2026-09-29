@@ -17,3 +17,6 @@ per_sample_predictions/
 *.npy
 *.npz
 *.csv.gz
+
+# Replication working tree (images, embeddings, checkpoints)
+_replication/
